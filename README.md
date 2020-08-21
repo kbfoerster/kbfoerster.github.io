@@ -1,5 +1,7 @@
 # Kyle Foerster's Portfolio
 
+[Kyle Foerster's Github](https://github.com/kbfoerster)
+
 ## Data Analytics
 
 ### NYCTrees Analysis
