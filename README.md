@@ -28,7 +28,6 @@
 ## Data Engineering
 
 ### Logstash Pipeline with NYCTrees Data
-*Project is in-progress*
 
 [This project's](https://github.com/kbfoerster/logstash_nyctrees) goal was to read a modified version of the NYCTrees data from a .csv with a Logstash pipeline. This pipeline would send the data to a local docker cluster to be further queried and analyzed. 
 
