@@ -36,3 +36,13 @@
 * Logstash
 * Elasticsearch
 * Kibana
+
+### PostgreSQL Data Warehouse for NYCTrees data
+*Project is in-progress*
+
+[This project's](https://github.com/kbfoerster/postgres_nyctrees) goal was to create a data warehouse to facilitate hypothetical On-Line Analytical Processing (OLAP) with the NYCTrees data. A star schema was implemented to satisfy these warehouse requirements.
+
+**Notable Technologies Used**
+* Docker
+* PostgreSQL
+* pgAdmin 4
